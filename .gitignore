@@ -11,7 +11,7 @@
 /logs
 /tmp
 /configuration.php
-/.htaccess
+#/.htaccess
 /web.config
 
 # Test Related Files #
@@ -30,4 +30,5 @@ components/com_patchtester/
 # Pomander deploy stuff
 /deploy
 _installation
+/vendor
 
